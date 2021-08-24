@@ -1,0 +1,7 @@
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\Session 05\Session 05\bin\Debug\Session 05.exe.config
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\Session 05\Session 05\bin\Debug\Session 05.exe
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\Session 05\Session 05\bin\Debug\Session 05.pdb
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\Session 05\Session 05\obj\Debug\Session 05.csproj.AssemblyReference.cache
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\Session 05\Session 05\obj\Debug\Session 05.csproj.CoreCompileInputs.cache
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\Session 05\Session 05\obj\Debug\Session 05.exe
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\Session 05\Session 05\obj\Debug\Session 05.pdb

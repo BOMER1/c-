@@ -1,0 +1,7 @@
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\ExHandling2\ExHandling2\bin\Debug\ExHandling2.exe.config
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\ExHandling2\ExHandling2\bin\Debug\ExHandling2.exe
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\ExHandling2\ExHandling2\bin\Debug\ExHandling2.pdb
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\ExHandling2\ExHandling2\obj\Debug\ExHandling2.csproj.AssemblyReference.cache
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\ExHandling2\ExHandling2\obj\Debug\ExHandling2.csproj.CoreCompileInputs.cache
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\ExHandling2\ExHandling2\obj\Debug\ExHandling2.exe
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\ExHandling2\ExHandling2\obj\Debug\ExHandling2.pdb

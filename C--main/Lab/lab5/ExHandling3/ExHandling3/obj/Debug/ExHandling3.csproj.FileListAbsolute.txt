@@ -1,0 +1,6 @@
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\ExHandling3\ExHandling3\bin\Debug\ExHandling3.exe.config
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\ExHandling3\ExHandling3\bin\Debug\ExHandling3.exe
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\ExHandling3\ExHandling3\bin\Debug\ExHandling3.pdb
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\ExHandling3\ExHandling3\obj\Debug\ExHandling3.csproj.CoreCompileInputs.cache
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\ExHandling3\ExHandling3\obj\Debug\ExHandling3.exe
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab5\ExHandling3\ExHandling3\obj\Debug\ExHandling3.pdb

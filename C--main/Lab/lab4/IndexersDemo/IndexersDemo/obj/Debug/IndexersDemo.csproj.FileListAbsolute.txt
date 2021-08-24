@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\c thăng\IndexersDemo\IndexersDemo\bin\Debug\IndexersDemo.exe.config
+C:\Users\Admin\Desktop\c thăng\IndexersDemo\IndexersDemo\bin\Debug\IndexersDemo.exe
+C:\Users\Admin\Desktop\c thăng\IndexersDemo\IndexersDemo\bin\Debug\IndexersDemo.pdb
+C:\Users\Admin\Desktop\c thăng\IndexersDemo\IndexersDemo\obj\Debug\IndexersDemo.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\c thăng\IndexersDemo\IndexersDemo\obj\Debug\IndexersDemo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\c thăng\IndexersDemo\IndexersDemo\obj\Debug\IndexersDemo.exe
+C:\Users\Admin\Desktop\c thăng\IndexersDemo\IndexersDemo\obj\Debug\IndexersDemo.pdb
