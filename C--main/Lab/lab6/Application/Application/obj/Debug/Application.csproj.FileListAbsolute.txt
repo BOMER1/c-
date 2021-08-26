@@ -1,0 +1,6 @@
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab6\Application\Application\bin\Debug\Application.exe.config
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab6\Application\Application\bin\Debug\Application.exe
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab6\Application\Application\bin\Debug\Application.pdb
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab6\Application\Application\obj\Debug\Application.csproj.CoreCompileInputs.cache
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab6\Application\Application\obj\Debug\Application.exe
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab6\Application\Application\obj\Debug\Application.pdb

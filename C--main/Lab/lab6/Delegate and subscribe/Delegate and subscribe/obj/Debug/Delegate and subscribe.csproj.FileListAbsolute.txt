@@ -1,0 +1,1 @@
+D:\IT\fptaptech-sem2\sem2\C#\lab\lab6\Delegate and subscribe\Delegate and subscribe\obj\Debug\Delegate and subscribe.csproj.CoreCompileInputs.cache
