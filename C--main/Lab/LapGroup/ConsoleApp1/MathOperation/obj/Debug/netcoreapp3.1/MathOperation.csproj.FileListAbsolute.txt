@@ -1,0 +1,14 @@
+D:\LapGroup\ConsoleApp1\MathOperation\bin\Debug\netcoreapp3.1\MathOperation.exe
+D:\LapGroup\ConsoleApp1\MathOperation\bin\Debug\netcoreapp3.1\MathOperation.deps.json
+D:\LapGroup\ConsoleApp1\MathOperation\bin\Debug\netcoreapp3.1\MathOperation.runtimeconfig.json
+D:\LapGroup\ConsoleApp1\MathOperation\bin\Debug\netcoreapp3.1\MathOperation.runtimeconfig.dev.json
+D:\LapGroup\ConsoleApp1\MathOperation\bin\Debug\netcoreapp3.1\MathOperation.dll
+D:\LapGroup\ConsoleApp1\MathOperation\bin\Debug\netcoreapp3.1\MathOperation.pdb
+D:\LapGroup\ConsoleApp1\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.csproj.AssemblyReference.cache
+D:\LapGroup\ConsoleApp1\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapGroup\ConsoleApp1\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.AssemblyInfoInputs.cache
+D:\LapGroup\ConsoleApp1\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.AssemblyInfo.cs
+D:\LapGroup\ConsoleApp1\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.csproj.CoreCompileInputs.cache
+D:\LapGroup\ConsoleApp1\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.dll
+D:\LapGroup\ConsoleApp1\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.pdb
+D:\LapGroup\ConsoleApp1\MathOperation\obj\Debug\netcoreapp3.1\MathOperation.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\LapGroup\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Shapes.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapGroup\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+D:\LapGroup\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+D:\LapGroup\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+D:\LapGroup\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Shapes.exe
+D:\LapGroup\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Shapes.deps.json
+D:\LapGroup\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+D:\LapGroup\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+D:\LapGroup\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Shapes.dll
+D:\LapGroup\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\Shapes.pdb
+D:\LapGroup\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Shapes.dll
+D:\LapGroup\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Shapes.pdb
+D:\LapGroup\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache

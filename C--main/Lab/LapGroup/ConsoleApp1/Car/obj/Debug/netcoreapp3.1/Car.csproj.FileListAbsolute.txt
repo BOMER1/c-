@@ -1,0 +1,13 @@
+D:\LapGroup\ConsoleApp1\Car\bin\Debug\netcoreapp3.1\Car.exe
+D:\LapGroup\ConsoleApp1\Car\bin\Debug\netcoreapp3.1\Car.deps.json
+D:\LapGroup\ConsoleApp1\Car\bin\Debug\netcoreapp3.1\Car.runtimeconfig.json
+D:\LapGroup\ConsoleApp1\Car\bin\Debug\netcoreapp3.1\Car.runtimeconfig.dev.json
+D:\LapGroup\ConsoleApp1\Car\bin\Debug\netcoreapp3.1\Car.dll
+D:\LapGroup\ConsoleApp1\Car\bin\Debug\netcoreapp3.1\Car.pdb
+D:\LapGroup\ConsoleApp1\Car\obj\Debug\netcoreapp3.1\Car.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapGroup\ConsoleApp1\Car\obj\Debug\netcoreapp3.1\Car.AssemblyInfoInputs.cache
+D:\LapGroup\ConsoleApp1\Car\obj\Debug\netcoreapp3.1\Car.AssemblyInfo.cs
+D:\LapGroup\ConsoleApp1\Car\obj\Debug\netcoreapp3.1\Car.csproj.CoreCompileInputs.cache
+D:\LapGroup\ConsoleApp1\Car\obj\Debug\netcoreapp3.1\Car.dll
+D:\LapGroup\ConsoleApp1\Car\obj\Debug\netcoreapp3.1\Car.pdb
+D:\LapGroup\ConsoleApp1\Car\obj\Debug\netcoreapp3.1\Car.genruntimeconfig.cache

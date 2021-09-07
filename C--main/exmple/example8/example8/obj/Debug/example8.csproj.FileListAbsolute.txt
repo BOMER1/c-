@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\C--main\C--main\exmple\example8\example8\obj\Debug\example8.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C--main\C--main\exmple\example8\example8\obj\Debug\example8.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C--main\C--main\exmple\example8\example8\bin\Debug\example8.exe.config
+C:\Users\Admin\Desktop\C--main\C--main\exmple\example8\example8\bin\Debug\example8.exe
+C:\Users\Admin\Desktop\C--main\C--main\exmple\example8\example8\bin\Debug\example8.pdb
+C:\Users\Admin\Desktop\C--main\C--main\exmple\example8\example8\obj\Debug\example8.exe
+C:\Users\Admin\Desktop\C--main\C--main\exmple\example8\example8\obj\Debug\example8.pdb

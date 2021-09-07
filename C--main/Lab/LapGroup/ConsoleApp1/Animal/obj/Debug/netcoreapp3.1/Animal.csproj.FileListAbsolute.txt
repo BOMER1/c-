@@ -1,0 +1,14 @@
+D:\LapGroup\ConsoleApp1\Animal\bin\Debug\netcoreapp3.1\Animal.exe
+D:\LapGroup\ConsoleApp1\Animal\bin\Debug\netcoreapp3.1\Animal.deps.json
+D:\LapGroup\ConsoleApp1\Animal\bin\Debug\netcoreapp3.1\Animal.runtimeconfig.json
+D:\LapGroup\ConsoleApp1\Animal\bin\Debug\netcoreapp3.1\Animal.runtimeconfig.dev.json
+D:\LapGroup\ConsoleApp1\Animal\bin\Debug\netcoreapp3.1\Animal.dll
+D:\LapGroup\ConsoleApp1\Animal\bin\Debug\netcoreapp3.1\Animal.pdb
+D:\LapGroup\ConsoleApp1\Animal\obj\Debug\netcoreapp3.1\Animal.csproj.AssemblyReference.cache
+D:\LapGroup\ConsoleApp1\Animal\obj\Debug\netcoreapp3.1\Animal.GeneratedMSBuildEditorConfig.editorconfig
+D:\LapGroup\ConsoleApp1\Animal\obj\Debug\netcoreapp3.1\Animal.AssemblyInfoInputs.cache
+D:\LapGroup\ConsoleApp1\Animal\obj\Debug\netcoreapp3.1\Animal.AssemblyInfo.cs
+D:\LapGroup\ConsoleApp1\Animal\obj\Debug\netcoreapp3.1\Animal.csproj.CoreCompileInputs.cache
+D:\LapGroup\ConsoleApp1\Animal\obj\Debug\netcoreapp3.1\Animal.dll
+D:\LapGroup\ConsoleApp1\Animal\obj\Debug\netcoreapp3.1\Animal.pdb
+D:\LapGroup\ConsoleApp1\Animal\obj\Debug\netcoreapp3.1\Animal.genruntimeconfig.cache

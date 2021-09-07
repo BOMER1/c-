@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\C--main\C--main\exmple\cc2\cc2\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C--main\C--main\exmple\cc2\cc2\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
